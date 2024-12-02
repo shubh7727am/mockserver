@@ -1,34 +1,44 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1",
-            "description": "this is description 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2",
-            "description": "this is description 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3",
-            "description": "this is description 3"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "comment 1",
-            "postId": 1
-        },
-        {
-            "id": 2,
-            "body": "comment 2",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "Profile 1"
+  "Tasks": [
+    {
+      "TaskTitle": "Complete project report",
+      "DueDate": "2024-12-05"
+    },
+    {
+      "TaskTitle": "Prepare presentation slides",
+      "DueDate": "2024-12-10"
+    },
+    {
+      "TaskTitle": "Team meeting",
+      "DueDate": "2024-12-07"
+    },
+    {
+      "TaskTitle": "Submit design prototype",
+      "DueDate": "2024-12-12"
+    },
+    {
+      "TaskTitle": "Code review session",
+      "DueDate": "2024-12-08"
+    },
+    {
+      "TaskTitle": "Finalize marketing plan",
+      "DueDate": "2024-12-15"
+    },
+    {
+      "TaskTitle": "Update project documentation",
+      "DueDate": "2024-12-06"
+    },
+    {
+      "TaskTitle": "Conduct user testing",
+      "DueDate": "2024-12-13"
+    },
+    {
+      "TaskTitle": "Prepare budget analysis",
+      "DueDate": "2024-12-14"
+    },
+    {
+      "TaskTitle": "Client feedback review",
+      "DueDate": "2024-12-11"
     }
+  ]
 }
