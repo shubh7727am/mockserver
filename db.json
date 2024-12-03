@@ -1,1 +1,1 @@
-{"Tasks":[{"TaskTitle":"task2","DueDate":"2024-12-26T00:00:00.000","isCompleted":false,"api":true},{"TaskTitle":"Task5","DueDate":"2024-12-27T00:00:00.000","isCompleted":false,"api":true}]}
+{"Tasks":[{"TaskTitle":"task2","DueDate":"2024-12-26T00:00:00.000","isCompleted":true,"api":true},{"TaskTitle":"Task5","DueDate":"2024-12-27T00:00:00.000","isCompleted":false,"api":true}]}
